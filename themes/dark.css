@@ -1,25 +1,25 @@
 :root {
-  --body-background-color: #001716;
-  --body-text-color: #f0ffff;
-  --card-background-color: #002b29;
-  --nav-background-color: #002b29;
-  --nav-border-bottom-color: #015450;
-  --nav-current-border-bottom-color: #1abc9c;
-  --card-border-color: #015450;
-  --down-border-left-color: #eb3b5a;
-  --down-background-color: #6b1020;
-  --degraded-border-left-color: #f7b731;
-  --up-border-left-color: #20bf6b;
-  --tag-color: #002b29;
-  --tag-up-background-color: #20bf6b;
-  --tag-down-background-color: #eb3b5a;
-  --tag-degraded-background-color: #f7b731;
-  --change-background-color: #f7b731;
-  --error-button-border-color: #1a46ad;
-  --error-button-background-color: #3867d6;
-  --error-button-color: #ffffff;
-  --submit-button-border-color: #1a46ad;
-  --submit-button-background-color: #3867d6;
+  --body-background-color: #0d1117;
+  --body-text-color: #c9d1d9;
+  --card-background-color: #161b22;
+  --nav-background-color: #161b22;
+  --nav-border-bottom-color: #21262d;
+  --nav-current-border-bottom-color: #58a6ff;
+  --card-border-color: #30363d;
+  --down-border-left-color: #f85149;                  /* Крашеный красный github-danger */
+  --down-background-color: #490202;                   /* Тёмная версия красного */
+  --degraded-border-left-color: #d29922;              /* GitHub Warning/Yellow */
+  --up-border-left-color: #238636;                    /* GitHub Success Green (сдержанный) */
+  --tag-color: #161b22;
+  --tag-up-background-color: #238636;
+  --tag-down-background-color: #f85149;
+  --tag-degraded-background-color: #d29922;
+  --change-background-color: #d29922;
+  --error-button-border-color: #30363d;
+  --error-button-background-color: #21262d;
+  --error-button-color: #f85149;
+  --submit-button-border-color: #238636;
+  --submit-button-background-color: #238636;
   --submit-button-color: #ffffff;
   --graph-opacity: 1;
   --graph-filter: none;
