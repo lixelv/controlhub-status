@@ -1,7 +1,7 @@
 url: https://control-hub.org
-status: up
-code: 200
-responseTime: 2043
-lastUpdated: 2025-05-02T23:05:46.813Z
+status: down
+code: 504
+responseTime: 20676
+lastUpdated: 2025-05-03T00:37:08.401Z
 startTime: 2025-04-24T22:13:06.915Z
 generator: Upptime <https://github.com/upptime/upptime>
