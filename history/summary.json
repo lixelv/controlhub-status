@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/control-hub.org.ico",
     "slug": "control-hub",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.78%",
     "uptimeDay": "98.03%",
     "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 2983,
-    "timeDay": 7839,
-    "timeWeek": 3684,
-    "timeMonth": 2983,
-    "timeYear": 2983,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 2820,
+    "timeDay": 7390,
+    "timeWeek": 3667,
+    "timeMonth": 2820,
+    "timeYear": 2820,
     "dailyMinutesDown": {
       "2025-05-03": 28
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 568,
-    "timeDay": 532,
-    "timeWeek": 584,
-    "timeMonth": 568,
-    "timeYear": 568,
+    "time": 562,
+    "timeDay": 488,
+    "timeWeek": 569,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-04-24": 10
     }
